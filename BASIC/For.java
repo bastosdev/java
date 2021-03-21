@@ -1,3 +1,5 @@
+package BASIC;
+
 public class For {
 
     public static void main(String[] args) {
